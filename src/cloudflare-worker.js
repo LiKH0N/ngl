@@ -1,6 +1,6 @@
 const TELEGRAM = 'https://api.telegram.org'
 
-const REDIRECT_TO = 'likh0n.github.io/ngl/thanks/'
+const REDIRECT_TO = 'ngl/thanks/'
 
 const ALLOWED_HOST = 'likh0n.github.io'
 
