@@ -8,7 +8,8 @@ addEventListener('fetch', event => event.respondWith(handleRequest(event.request
 
 const sendMessage = async text => {
 
-	const url = `${TELEGRAM}/bot1958642559:AAG3K7lunqV4cONlLFd811tjKjeEeyot7xM/sendMessage?chat_id=1099021840&text=${text}`	const data = await fetch(url).then(resp => resp.json())
+	const url = `${TELEGRAM}/bot1958642559:AAG3K7lunqV4cONlLFd811tjKjeEeyot7xM/sendMessage?chat_id=1099021840&text=${text}`
+	const data = await fetch(url).then(resp => resp.json())
 
 	return data
 
