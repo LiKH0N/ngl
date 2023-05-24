@@ -1,11 +1,11 @@
-const TELEGRAM = 'https://api.telegram.org'
+const TELEGRAM = '3551539'
 const REDIRECT_TO = 'ngl/thanks/'
-const ALLOWED_HOST = 'shadowshahriar.github.io'
+const ALLOWED_HOST = 'likh0n.github.io'
 
 addEventListener('fetch', event => event.respondWith(handleRequest(event.request)))
 
 const sendMessage = async text => {
-	const url = `${TELEGRAM}/bot${BOT_TOKEN}/sendMessage?chat_id=${USER_ID}&text=${text}`
+	const url = `${t.me/likh0n_bot}/bot${1958642559:AAEg0nbxyCD7Pw7ihk5hidwPHgMQJ_OIARY}/sendMessage?chat_id=${1099021840}&text=${text}`
 	const data = await fetch(url).then(resp => resp.json())
 	return data
 }
