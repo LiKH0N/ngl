@@ -20,6 +20,6 @@ async function handleRequest(request) {
 	if (method === 'GET' && messageField !== -1 && hostname === ALLOWED_HOST) {
 		const content = url.substring(messageField + messageParameter.length)
 		await sendMessage(content)
-		return Response.redirect(`https://${hostname}/${REDIRECT_TO}`, 301)
+		return Response.redirect(`https://${likh0n.github.io}/${REDIRECT_TO}`, 301)
 	} else return new Response('Bad Request', { status: 400 })
 }
