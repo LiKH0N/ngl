@@ -5,7 +5,7 @@ tl;dr
 > This repository is based on Shadman Shahriar NGL repository https://github.com/ShadowShahriar/ngl. 
 I have redised it and added some js which is from codepen. you can find it from https://codepen.io/JulianLaval/pen/KpLXOO
 
-Well I'm new to this git world and don't know much how to give proper credit. sorry for that 😢
+Well I'm new to this git world and don't know much, how to give proper credit. sorry for that 😢
 
 
 # How does it work?
