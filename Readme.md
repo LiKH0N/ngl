@@ -2,15 +2,11 @@
 
 tl;dr
 
-> I made my personal NGL (sort of).
+> This repository is based on Shadman Shahriar NGL repository https://github.com/ShadowShahriar/ngl. 
+I have redised it and added some js which is from codepen. you can find it from https://codepen.io/JulianLaval/pen/KpLXOO
 
-# What is NGL?
+Well I'm new to this git world and don't know much how to give proper credit. sorry for that 😢
 
-> [NGL][1] is a mobile app available for both Android and iOS that allows users to send one another anonymous messages. It integrates like an add-on for Instagram to share the responses directly to their stories.
-
-Most of my college friends have started using this app to send private messages. It is like a fun game where you can say and ask basically anything and get witty responses. I really wanted to try this thing. However, I wouldn't prefer to install another app just to receive anonymous messages. I thought, why bother installing when I can make my own NGL?
-
-Now my friends can send me private messages by visiting: **https://shadowshahriar.github.io/ngl**
 
 # How does it work?
 
